@@ -1,2 +1,7 @@
 sqlite-database
 ipykernel
+langgraph
+langchain
+langchain-community
+python-dotenv
+langchain_groq
