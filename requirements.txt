@@ -5,3 +5,6 @@ langchain
 langchain-community
 python-dotenv
 langchain_groq
+transformers
+IProgress
+torch
